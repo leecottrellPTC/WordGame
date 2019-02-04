@@ -23,7 +23,7 @@ public class WordGame {
         //this is the code
         System.out.println("Enter a word");
         theWord = keyboard.nextLine();
-        System.out.println(theWord.trim());
+        System.out.println("You entered " + theWord.trim());
     }
     
 }
