@@ -72,7 +72,7 @@ public class AWord {
 
     @Override
     public String toString() {
-        return "AWord{" + "word=" + word + ", definition=" + definition + '}';
+        return "word " + word + " means " + definition + '}';
     }
     
     
